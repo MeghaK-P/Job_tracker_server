@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "name": "Laya Kurian",
+      "email": "laya@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Seena Smith",
+      "email": "seena@gmail.com",
+      "password": "9876",
+      "id": 2
+    }
+  ],
+  "applications": [
+    {
+      "company": "Microsoft",
+      "position": "React Developer",
+      "location": "Banglore",
+      "jobType": "Full Time",
+      "status": "Applied",
+      "applicationDate": "2026-09-08",
+      "salary": "9 LPA",
+      "jobLink": "http://localhost:5173",
+      "notes": "",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "company": "Deloitte",
+      "position": "Angular Developer",
+      "location": "Kochi",
+      "jobType": "Full Time",
+      "status": "Offer",
+      "applicationDate": "2026-09-27",
+      "reminderDate": "2026-09-29",
+      "salary": "5 LPA",
+      "jobLink": "",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "company": "Wipro",
+      "position": "Full Stack Developer",
+      "location": "Banglore",
+      "jobType": "Full Time",
+      "status": "Interview",
+      "applicationDate": "2026-09-08",
+      "reminderDate": "",
+      "salary": "3.7 LPA",
+      "jobLink": "http://localhost:5173",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "company": "TCS",
+      "position": "Software Developer",
+      "location": "Kerala",
+      "jobType": "Contract",
+      "status": "Shortlisted",
+      "applicationDate": "2026-09-15",
+      "reminderDate": "2026-10-01",
+      "salary": "2 LPA",
+      "jobLink": "http://localhost:5173/add-application",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "company": "Exacore",
+      "position": "React Developer",
+      "location": "Kerala",
+      "jobType": "Full Time",
+      "status": "Applied",
+      "applicationDate": "2026-09-15",
+      "salary": "2 LPA",
+      "jobLink": "http://localhost:5173/add-application",
+      "notes": "",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "company": "Google",
+      "position": "Angular Developer",
+      "location": "Delhi",
+      "jobType": "Internship",
+      "status": "Offer",
+      "applicationDate": "2026-09-25",
+      "reminderDate": "",
+      "salary": "9.5 LPA",
+      "jobLink": "",
+      "notes": "",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "company": "Wipro",
+      "position": "Full Stack Developer",
+      "location": "Kochi",
+      "jobType": "Full Time",
+      "status": "Interview",
+      "applicationDate": "2026-09-28",
+      "reminderDate": "2026-09-30",
+      "salary": "4.3 LPA",
+      "jobLink": "",
+      "notes": "",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "company": "Deloitte",
+      "position": "Frondend developer",
+      "location": "Banglore",
+      "jobType": "Full Time",
+      "status": "Offer",
+      "applicationDate": "2026-09-28",
+      "reminderDate": "2026-09-30",
+      "salary": "7 LPA",
+      "jobLink": "",
+      "notes": "",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "company": "Samsung",
+      "position": "Backend developer",
+      "location": "Kochi",
+      "jobType": "Internship",
+      "status": "Rejected",
+      "applicationDate": "2026-09-27",
+      "reminderDate": "",
+      "salary": "2 LPA",
+      "jobLink": "",
+      "notes": "Rejected after the technical interview. Need to strengthen backend fundamentals, REST APIs, database concepts, and problem-solving skills before applying for similar roles.",
+      "id": 10
+    }
+  ]
+}
